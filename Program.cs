@@ -6,7 +6,7 @@ class Program
     {
         string contents = "";
 
-        System.Console.WriteLine("Öppnar byrålådan...");
+        System.Console.WriteLine("Öppnar byrålådan....");
 
         while (true)
         {
