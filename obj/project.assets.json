@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\skrap\\.nuget\\packages\\": {}
+    "/Users/A/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skrap\\Documents\\BY\\OOP1 2020\\Bureau_example\\Bureau_example.csproj",
+      "projectUniqueName": "/Users/A/YH SKOLA/Gitdemo/Bureau_example/Bureau_example.csproj",
       "projectName": "Bureau_example",
-      "projectPath": "C:\\Users\\skrap\\Documents\\BY\\OOP1 2020\\Bureau_example\\Bureau_example.csproj",
-      "packagesPath": "C:\\Users\\skrap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skrap\\Documents\\BY\\OOP1 2020\\Bureau_example\\obj\\",
+      "projectPath": "/Users/A/YH SKOLA/Gitdemo/Bureau_example/Bureau_example.csproj",
+      "packagesPath": "/Users/A/.nuget/packages/",
+      "outputPath": "/Users/A/YH SKOLA/Gitdemo/Bureau_example/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\skrap\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/A/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
       }
     }
   }

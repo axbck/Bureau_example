@@ -13,7 +13,7 @@ class Program
             System.Console.Write("Vad vill du lägga i byrålådan: ");
             string input = Console.ReadLine();
 
-            if (input.ToLower() == "q" || input.ToLower() == "inget" || innput.ToLower() == "nada")
+            if (input.ToLower() == "q" || input.ToLower() == "inget" || input.ToLower() == "nada")
             {
                 Console.WriteLine("Stänger byrån...");
                 Environment.Exit(0);

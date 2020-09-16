@@ -1,0 +1,12 @@
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/bin/Debug/netcoreapp3.1/Bureau_example.deps.json
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/bin/Debug/netcoreapp3.1/Bureau_example.runtimeconfig.json
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/bin/Debug/netcoreapp3.1/Bureau_example.runtimeconfig.dev.json
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/bin/Debug/netcoreapp3.1/Bureau_example.dll
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/bin/Debug/netcoreapp3.1/Bureau_example.pdb
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/obj/Debug/netcoreapp3.1/Bureau_example.csprojAssemblyReference.cache
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/obj/Debug/netcoreapp3.1/Bureau_example.AssemblyInfoInputs.cache
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/obj/Debug/netcoreapp3.1/Bureau_example.AssemblyInfo.cs
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/obj/Debug/netcoreapp3.1/Bureau_example.csproj.CoreCompileInputs.cache
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/obj/Debug/netcoreapp3.1/Bureau_example.dll
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/obj/Debug/netcoreapp3.1/Bureau_example.pdb
+/Users/A/YH SKOLA/Gitdemo/Bureau_example/obj/Debug/netcoreapp3.1/Bureau_example.genruntimeconfig.cache
