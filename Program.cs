@@ -6,14 +6,14 @@ class Program
     {
         string contents = "";
 
-        System.Console.WriteLine("Öppnar byrålådan...AAA");
+        System.Console.WriteLine("Öppnar byrålådan...");
 
         while (true)
         {
-            System.Console.Write("Vad vill du lägga i lådan: ");
+            System.Console.Write("Vad vill du lägga i byrålådan: ");
             string input = Console.ReadLine();
 
-            if (input.ToLower() == "q" || input.ToLower() == "inget")
+            if (input.ToLower() == "q" || input.ToLower() == "inget" || innput.ToLower() == "nada")
             {
                 Console.WriteLine("Stänger byrån...");
                 Environment.Exit(0);
